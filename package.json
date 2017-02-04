@@ -1,0 +1,22 @@
+{
+  "name": "backbonetestapplication",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raj302firstbackbone/master.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raj302firstbackbone/master/issues"
+  },
+  "homepage": "https://github.com/raj302firstbackbone/master#readme",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
